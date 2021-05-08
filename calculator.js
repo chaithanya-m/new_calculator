@@ -18,3 +18,4 @@ function squar(){
 	var value1 = document.getElementById("text_bar").value;
 	document.getElementById("text_bar").value=value1*value1;
 }
+
