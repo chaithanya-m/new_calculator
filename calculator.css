@@ -1,9 +1,36 @@
 body{
 	text-align: center;
+    background-color:#363333;
 
 }
 .text_pad{
-	width: 40px;
-	height: 20px;
-	margin: 2px;
+	width: 45px;
+	height: 25px;
+	margin: 4px; 
+	border-radius: 4px;	
+	color: white;
+	background-color: #363333;
+}
+.equal{
+	width: 102px;
+	background-color:#22b122d9;
+	border-width: 1px;
+}
+.keys{
+	padding: 15px;
+	background-color:black;
+	width: max-content;
+	position: sticky;
+	left: 528px;
+}
+#text_bar{
+width: 250px;
+height: 30px;
+background-color: black;
+text-align: left;
+text-decoration-color: white;
+color: white;
+font-size: 30px;
+border-width: 0px;
+margin: 5px;
 }
